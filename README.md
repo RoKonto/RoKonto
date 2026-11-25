@@ -11,7 +11,7 @@ privacy and security tooling** that runs locally.
 
 ## What I'm interested in
 
-- Measuring LLM behavior with repeatable evals instead of vibes
+- Measuring LLM behavior with repeatable evals
 - Privacy-preserving workflows: local models, minimal data sharing
 - Practical security for individuals and small teams
 - Working with AI coding assistants in the terminal while keeping ownership and review of the code
